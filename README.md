@@ -39,7 +39,7 @@ function command_not_found_handler() {
   printf "Since you've typed the wrong command, here are some japanese words for you to memorize:\n\n"
   printf "-------------------------\n\n"
 
-  node ./japanize-command-not-found/main.js
+  node ~/japanize-command-not-found/main.js
 
   printf "\n"
   printf "-------------------------\n\n"
