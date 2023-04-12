@@ -7,8 +7,8 @@ Modify command-not-found message on your terminal with some random Japanese word
 When in the terminal, I often mistype a command which causes me to get an error. Every time I make a typo, the error message that are displayed is looks like this:
 
 ```console
-$ pinf
-pinf: command not found
+$ nvum
+nvum: command not found
 ```
 
 The message is always the same over and over again, which makes me wonder what if I modify the message a little bit, so that every time I type the wrong command, I can see something other than the message above.
@@ -23,7 +23,7 @@ I think showing some random Japanese words is a good idea (at least for me), Tha
 git clone https://github.com/skinnyfads/japanize-command-not-found.git
 ```
 
-- Copy the folder into your home directory
+- Move the folder into your home directory
 
 ```console
 mv japanize-command-not-found ~
@@ -33,16 +33,7 @@ mv japanize-command-not-found ~
 
 ```zsh
 function command_not_found_handler() {
-  printf "\n-------------------------\n\n"
-  printf "%s: command not found\n%s\n" $1
-  printf "-------------------------\n\n"
-  printf "Since you've typed the wrong command, here are some japanese words for you to memorize:\n\n"
-  printf "-------------------------\n\n"
-
-  node ~/japanize-command-not-found/main.js
-
-  printf "\n"
-  printf "-------------------------\n\n"
+  node ~/japanize-command-not-found/main.js $1
   return 127
 }
 ```
@@ -55,7 +46,7 @@ In order to to use this, you can start by opening your terminal, and type any co
 
 Look at this image, this is the moment when i type `nvum` command instead of `nvim`. It make me got an error: `nvum: command not found` along with other message, and the message is some Japanese words!
 
-![image](https://user-images.githubusercontent.com/121819737/231297148-a69c71d4-72c1-4791-bb97-573e07d01aff.png)
+![japanize command-not-found preview](https://s2.gifyu.com/images/Recording-2023-04-12-at-11.19.45.gif)
 
 This is just a simple project i create on my free time. if you find this useful, don't forget to star this repository!
 
