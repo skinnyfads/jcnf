@@ -1,5 +1,4 @@
-const dataFilePath = __dirname + "/data.json";
-const data = require(dataFilePath);
+const data = require(__dirname + "/data.json");
 
 function generateBorderText() {
   const terminalWidth = process.stdout.columns;

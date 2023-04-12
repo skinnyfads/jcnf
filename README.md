@@ -17,28 +17,9 @@ I think showing some random Japanese words is a good idea (at least for me), Tha
 
 ## Installation
 
-- Clone this project
-
 ```console
-git clone https://github.com/skinnyfads/japanize-command-not-found.git
+curl -s -L https://raw.githubusercontent.com/skinnyfads/jcnf/main/install.sh | zsh
 ```
-
-- Move the folder into your home directory
-
-```console
-mv japanize-command-not-found ~
-```
-
-- Add this to your `.zshrc` (I haven't tried `.bashrc` for now)
-
-```zsh
-function command_not_found_handler() {
-  node ~/japanize-command-not-found/main.js $1
-  return 127
-}
-```
-
-And that's it. Now you can just use the code!
 
 ## Usage
 
