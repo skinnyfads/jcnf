@@ -27,7 +27,10 @@ for (let i = 0; i < totalWordsDisplayed; i++) {
 const stringArray = selectedWords.map((word) => {
   const def = word.definition;
   const defenition = typeof def === "string" ? def : def.join(", ");
-  return `${word.kana} - ${defenition}`;
+  const kana = word.kana;
+  const romaji = word.romaji;
+
+  return `${kana} [ ${romaji} ] - ${defenition}`;
 });
 const displayText = stringArray.join("\n\n");
 
