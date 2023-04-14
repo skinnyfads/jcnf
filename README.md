@@ -7,8 +7,8 @@ Modify command-not-found message on your terminal with some random Japanese word
 I often mistype commands in the terminal which causes me to get errors. Every time I make a typo, the error message thar are displayed is something like this:
 
 ```console
-$ nvum
-nvum: command not found
+$ pinf
+pinf: command not found
 ```
 
 The message is always the same over and over, which makes me wonder what if I modify the message by adding some random Japanese words.
@@ -31,7 +31,7 @@ curl -s -L https://raw.githubusercontent.com/skinnyfads/jcnf/main/install.sh | z
 
 ## Usage
 
-In order to to use this, you can start by opening your terminal, and type any command that are wrong or simply doesn't exist. Look at this image, this is the moment when I type `nvum` command instead of `nvim`
+In order to to use this, you can start by opening your terminal, and type any command that are wrong or simply doesn't exist. Look at this image, this is the moment when I type `pinf` command instead of `ping`
 
 ![japanize command-not-found preview](https://s10.gifyu.com/images/Recording-2023-04-14-at-09.28.04.gif)
 
