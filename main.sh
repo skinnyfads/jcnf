@@ -23,7 +23,7 @@ for index in "${selected_index[@]}"; do
   IFS=";"
 
   read -r kana definition romaji <<< "$word"
-  echo "$kana [ $definition ] - $romaji"
+  echo "$kana [ $romaji ] - $definition"
 done
 
 IFS="$default_ifs"
