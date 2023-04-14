@@ -23,7 +23,7 @@ japanize_log "move the repository into the home directory"
 mv jcnf ~
 
 japanize_fn="function command_not_found_handler() {
-  sh ~/jcnf/main.sh \$1
+  zsh ~/jcnf/main.sh \$1
   return 127
 }"
 if ! grep -Fx -f <(echo "$japanize_fn") ~/.zshrc; then
