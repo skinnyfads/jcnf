@@ -4,7 +4,7 @@ printf "%s: command not found\n\n" "$1"
 printf "Since you have typed the wrong command, here are some Japanese words for you to memorize:\n\n"
 
 default_ifs="$IFS"
-data_file_path=~/dev/jcnf/data.txt
+data_file_path=~/jcnf/data.txt
 total_words=$(wc -l < "$data_file_path")
 limit=5
 selected_index=()
