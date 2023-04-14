@@ -21,7 +21,6 @@ Before using this project, make sure you have the following software installed:
 
 - **zsh**: https://www.zsh.org/
 - **git**: https://git-scm.com/downloads
-- **Node.js**: https://nodejs.org/en/download/
 - **curl**: https://curl.haxx.se/
 
 ## Installation
