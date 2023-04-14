@@ -33,7 +33,7 @@ curl -s -L https://raw.githubusercontent.com/skinnyfads/jcnf/main/install.sh | z
 
 In order to to use this, you can start by opening your terminal, and type any command that are wrong or simply doesn't exist. Look at this image, this is the moment when I type `pinf` command instead of `ping`
 
-![japanize command-not-found preview](https://s10.gifyu.com/images/Recording-2023-04-14-at-09.28.04.gif)
+![japanize command-not-found preview](https://s11.gifyu.com/images/Recording-2023-04-15-at-05.11.49.gif)
 
 ## Acknowledgements
 
