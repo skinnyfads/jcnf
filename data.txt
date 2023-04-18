@@ -1,93 +1,93 @@
-ああ [ aa ] - Ah!,Oh!
-あう [ au ] - to meet,to see
+ああ [ aa ] - Ah!, Oh!
+あう [ au ] - to meet, to see
 あお [ ao ] - blue
 あおい [ aoi ] - blue
 あか [ aka ] - red
 あかい [ akai ] - red
-あかるい [ akarui ] - bright,cheerful
-あき [ aki ] - autumn,fall
-あく [ aku ] - to open,to become open
+あかるい [ akarui ] - bright, cheerful
+あき [ aki ] - autumn, fall
+あく [ aku ] - to open, to become open
 あける [ akeru ] - to open
 あげる [ ageru ] - to give
 あさ [ asa ] - morning
 あさごはん [ asagohan ] - breakfast
 あさって [ asatte ] - day after tomorrow
-あし [ ashi ] - foot,leg
+あし [ ashi ] - foot, leg
 あした [ ashita ] - tomorrow
-あそこ [ asoko ] - there,over there,that place
-あそぶ [ asobu ] - to play,to enjoy oneself
-あたたかい [ atatakai ] - warm,mild
+あそこ [ asoko ] - there, over there, that place
+あそぶ [ asobu ] - to play, to enjoy oneself
+あたたかい [ atatakai ] - warm, mild
 あたま [ atama ] - head
 あたらしい [ atarashii ] - new
-あちら [ achira ] - there,yonder,that
-あつい [ atsui ] - hot,warm
+あちら [ achira ] - there, yonder, that
+あつい [ atsui ] - hot, warm
 あつい [ atsui ] - hot (thing)
-あつい [ atsui ] - kind,warm(hearted),thick,deep
+あつい [ atsui ] - kind, warm(hearted), thick, deep
 あっち [ atchi ] - over there
-あと [ ato ] - afterwards,since then,in the future
+あと [ ato ] - afterwards, since then, in the future
 あなた [ anata ] - you
 あに [ ani ] - (hum) older brother
 あね [ ane ] - (hum) older sister
 あの [ ano ] - that over there
 あの [ ano ] - um...
 アパート [ apaato ] - apartment (abbr)
-あびる [ abiru ] - to bathe,to shower
-あぶない [ abunai ] - dangerous,critical,watch out!
-あまい [ amai ] - generous,sweet
-あまり [ amari ] - not very,not much
+あびる [ abiru ] - to bathe, to shower
+あぶない [ abunai ] - dangerous, critical, watch out!
+あまい [ amai ] - generous, sweet
+あまり [ amari ] - not very, not much
 あめ [ ame ] - rain
-あめ [ ame ] - (hard) candy,toffee
+あめ [ ame ] - (hard) candy, toffee
 あらう [ arau ] - to wash
 ある [存在] [ aru [存在] ] - to be
 ある [所有] [ aru [所有] ] - to have
 あるく [ aruku ] - to walk
-あれ [ are ] - that,that thing
+あれ [ are ] - that, that thing
 いい/よい [ ii/yoi ] - good
-いいえ [ iie ] - no,not at all
+いいえ [ iie ] - no, not at all
 いう [ iu ] - to say
-いえ [ ie ] - house,family
-いかが [ ikaga ] - how,in what way
+いえ [ ie ] - house, family
+いかが [ ikaga ] - how, in what way
 いく/ゆく [ iku/yuku ] - to go
-いくつ [ ikutsu ] - how many?,how old?
-いくら [ ikura ] - how much?,how many?
+いくつ [ ikutsu ] - how many?, how old?
+いくら [ ikura ] - how much?, how many?
 いけ [ ike ] - pond
 いしゃ [ isha ] - doctor (medical)
 いす [ isu ] - chair
-いそがしい [ isogashii ] - busy,irritated
+いそがしい [ isogashii ] - busy, irritated
 いたい [ itai ] - painful
 いち [ ichi ] - one
 いちにち [ ichinichi ] - 1 day (duration)
-いちばん [ ichiban ] - best,first,number one
+いちばん [ ichiban ] - best, first, number one
 いつ [ itsu ] - when
-いつか [ itsuka ] - five days,the fifth day (of the month)
+いつか [ itsuka ] - five days, the fifth day (of the month)
 いっしょ [ issho ] - together
 いつつ [ itsutsu ] - five
-いつも [ itsumo ] - always,every time
+いつも [ itsumo ] - always, every time
 いぬ [ inu ] - dog
 いま [ ima ] - now
 いみ [ imi ] - meaning
 いもうと [ imouto ] - younger sister
-いや [ iya ] - disagreeable,no
-いりぐち [ iriguchi ] - entrance,gate
-いる [ iru ] -  (hum) to be (animate),to exist
+いや [ iya ] - disagreeable, no
+いりぐち [ iriguchi ] - entrance, gate
+いる [ iru ] -  (hum) to be (animate), to exist
 いる [ iru ] - to need
 いれる [ ireru ] - to put in
 いろ [ iro ] - colour
 いろいろ [ iroiro ] - various
-うえ [ ue ] - above,on top of
-うしろ [ ushiro ] - behind,rear
-うすい [ usui ] - thin,weak
+うえ [ ue ] - above, on top of
+うしろ [ ushiro ] - behind, rear
+うすい [ usui ] - thin, weak
 うた [ uta ] - song
 うたう [ utau ] - to sing
 うち [ uchi ] - house (one's own)
 うまれる [ umareru ] - to be born
-うみ [ umi ] - sea,beach
+うみ [ umi ] - sea, beach
 うる [ uru ] - to sell
-うるさい [ urusai ] - noisy,loud,annoying
-うわぎ [ uwagi ] - coat,jacket
-え [ e ] - picture,drawing,painting,sketch
-えいが [ eiga ] - movie,film
-えいがかん [ eigakan ] - movie theatre (theater),cinema
+うるさい [ urusai ] - noisy, loud, annoying
+うわぎ [ uwagi ] - coat, jacket
+え [ e ] - picture, drawing, painting, sketch
+えいが [ eiga ] - movie, film
+えいがかん [ eigakan ] - movie theatre (theater), cinema
 えいご [ eigo ] - the English language
 ええ [ ee ] - yes
 えき [ eki ] - station
@@ -95,26 +95,26 @@
 ～えん [ ～en ] - yen (currency)
 えんぴつ [ enpitsu ] - pencil
 お～ [ o～ ] - honourable ～ (honorific)
-おいしい [ oishii ] - delicious,tasty
+おいしい [ oishii ] - delicious, tasty
 おおい [ ooi ] - many
 おおきい [ ookii ] - big
 おおきな [ ookina ] - big
 おおぜい [ oozei ] - great number of people
 おかあさん [ okaasan ] - (hon) mother
-おかし [ okashi ] - confections,sweets,candy
+おかし [ okashi ] - confections, sweets, candy
 おかね [ okane ] - money
-おきる [ okiru ] - to get up,to rise
-おく [ oku ] - to put,to place
+おきる [ okiru ] - to get up, to rise
+おく [ oku ] - to put, to place
 おくさん [ okusan ] - (hon) wife
-おさけ [ osake ] - alcohol,sake (rice wine)
-おさら [ osara ] - plate,dish
-おじ・さん [ oji/san ] - uncle,middle aged man
-おじいさん [ ojiisan ] - grandfather,male senior citizen
-おしえる [ oshieru ] - to teach,to inform
-おす [ osu ] - to push,to press
-おそい [ osoi ] - late,slow
+おさけ [ osake ] - alcohol, sake (rice wine)
+おさら [ osara ] - plate, dish
+おじ・さん [ oji/san ] - uncle, middle aged man
+おじいさん [ ojiisan ] - grandfather, male senior citizen
+おしえる [ oshieru ] - to teach, to inform
+おす [ osu ] - to push, to press
+おそい [ osoi ] - late, slow
 おちゃ [ ocha ] - tea (green)
-おてあらい [ otearai ] - toilet,lavatory,bathroom
+おてあらい [ otearai ] - toilet, lavatory, bathroom
 おとうさん [ otousan ] - (hon) father
 おとうと [ otouto ] - younger brother
 おとこ [ otoko ] - man
@@ -123,33 +123,33 @@
 おととし [ ototoshi ] - year before last
 おとな [ otona ] - adult
 おなか [ onaka ] - stomach
-おなじ [ onaji ] - same,identical,similar
+おなじ [ onaji ] - same, identical, similar
 おにいさん [ oniisan ] - (hon) older brother
 おねえさん [ oneesan ] - (hon) older sister
 おばさん [ obasan ] - aunt
-おばあさん [ obaasan ] - grandmother,female senior-citizen
+おばあさん [ obaasan ] - grandmother, female senior-citizen
 おふろ [ ofuro ] - bath
 おべんとう [ obentou ] - boxed lunch
-おぼえる [ oboeru ] - to remember,to memorize
+おぼえる [ oboeru ] - to remember, to memorize
 おまわりさん [ omawarisan ] - policeman (friendly term)
 おもい [ omoi ] - heavy
-おもしろい [ omoshiroi ] - interesting,amusing
+おもしろい [ omoshiroi ] - interesting, amusing
 およぐ [ oyogu ] - to swim
-おりる [ oriru ] - to alight (eg from bus),to get off
-おわる [ owaru ] - to finish,to close
+おりる [ oriru ] - to alight (eg from bus), to get off
+おわる [ owaru ] - to finish, to close
 おんがく [ ongaku ] - music
-おんな [ onna ] - woman,girl,daughter
+おんな [ onna ] - woman, girl, daughter
 おんなのこ [ onnanoko ] - girl
 ～かい [ ～kai ] - counter for occurrences
 ～かい [ ～kai ] - counter for storeys of a building
 がいこく [ gaikoku ] - foreign country
 がいこくじん [ gaikokujin ] - foreigner
-かいしゃ [ kaisha ] - company,corporation
+かいしゃ [ kaisha ] - company, corporation
 かいだん [ kaidan ] - stairs
 かいもの [ kaimono ] - shopping
 かう [ kau ] - to buy
 かえす [ kaesu ] - to return something
-かえる [ kaeru ] - to go home,to return
+かえる [ kaeru ] - to go home, to return
 かお [ kao ] - face (person)
 かかる [ kakaru ] - to take (eg time, money)
 かぎ [ kagi ] - key/s
@@ -160,41 +160,41 @@
 かける [ kakeru ] - to dial/call (eg phone)
 かさ [ kasa ] - umbrella
 かす [ kasu ] - to lend
-かぜ [ kaze ] - wind,breeze
-かぜ [ kaze ] - cold,illness
+かぜ [ kaze ] - wind, breeze
+かぜ [ kaze ] - cold, illness
 かた [ kata ] - person
 かぞく [ kazoku ] - family
 かたかな [ katakana ] - katakana
 ～がつ [ ～gatsu ] - month of year
 がっこう [ gakkou ] - school
 カップ [ kappu ] - cup
-かてい [ katei ] - home,household
+かてい [ katei ] - home, household
 かど [ kado ] - corner (e.g. desk)
-かばん [ kaban ] - bag,basket
+かばん [ kaban ] - bag, basket
 かびん [ kabin ] - (flower) vase
-かぶる [ kaburu ] - to wear,to put on (head)
+かぶる [ kaburu ] - to wear, to put on (head)
 かみ [ kami ] - paper
 カメラ [ kamera ] - camera
 かようび [ kayoubi ] - Tuesday
-からい [ karai ] - spicy,salty
+からい [ karai ] - spicy, salty
 からだ [ karada ] - body
-かりる [ kariru ] - to borrow,to have a loan
+かりる [ kariru ] - to borrow, to have a loan
 ～がる [ ～garu ] - feel
-かるい [ karui ] - light,non-serious,minor
+かるい [ karui ] - light, non-serious, minor
 カレー [ karee ] - curry
 カレンダー [ karendaa ] - calendar
 かわ [ kawa ] - river
 ～がわ [ ～gawa ] - ～ side
-かわいい [ kawaii ] - cute,charming
-かんじ [ kanji ] - kanji,Chinese character
-き [ ki ] - tree,wood
+かわいい [ kawaii ] - cute, charming
+かんじ [ kanji ] - kanji, Chinese character
+き [ ki ] - tree, wood
 きいろ [ kiiro ] - yellow
 きいろい [ kiiroi ] - yellow
-きえる [ kieru ] - to go out,to vanish
-きく [ kiku ] - to hear,to listen,to ask
+きえる [ kieru ] - to go out, to vanish
+きく [ kiku ] - to hear, to listen, to ask
 きた [ kita ] - north
 ギター [ gitaa ] - guitar
-きたない [ kitanai ] - dirty,messy
+きたない [ kitanai ] - dirty, messy
 きっさてん [ kissaten ] - coffee lounge
 きって [ kitte ] - stamp (eg. postage)
 きっぷ [ kippu ] - ticket
@@ -202,14 +202,14 @@
 きゅう [ kyuu ] - nine
 ぎゅうにく [ gyuuniku ] - beef
 ぎゅうにゅう [ gyuunyuu ] - milk
-きょう [ kyou ] - today,this day
+きょう [ kyou ] - today, this day
 きょうしつ [ kyoushitsu ] - classroom
 きょうだい [ kyoudai ] - siblings (brothers and sisters)
 きょねん [ kyonen ] - last year
-きらい [ kirai ] - dislike,hate
-きる [ kiru ] - to cut,to chop
-きる [ kiru ] - to wear,to put on (from shoulders down)
-きれい [ kirei ] - pretty,clean,nice,tidy
+きらい [ kirai ] - dislike, hate
+きる [ kiru ] - to cut, to chop
+きる [ kiru ] - to wear, to put on (from shoulders down)
+きれい [ kirei ] - pretty, clean, nice, tidy
 キロ/キログラム [ kiro/kiroguramu ] - kilo (kilogram)
 キロ/キロメートル [ kiro/kiromeetoru ] - kilo (kilometre)
 ぎんこう [ ginkou ] - bank
@@ -218,31 +218,31 @@
 くすり [ kusuri ] - medicine
 ください [ kudasai ] - (with te-form verb) please do for me
 くだもの [ kudamono ] - fruit
-くち [ kuchi ] - mouth,orifice,opening
-くつ [ kutsu ] - shoes,footwear
+くち [ kuchi ] - mouth, orifice, opening
+くつ [ kutsu ] - shoes, footwear
 くつした [ kutsushita ] - socks
 くに [ kuni ] - country
-くもり [ kumori ] - cloudiness,cloudy weather
-くもる [ kumoru ] - to become cloudy,to become dim
-くらい [ kurai ] - dark,gloomy
+くもり [ kumori ] - cloudiness, cloudy weather
+くもる [ kumoru ] - to become cloudy, to become dim
+くらい [ kurai ] - dark, gloomy
 ～くらい/ぐらい [ ～kurai/gurai ] - approximate (quantity)
 クラス [ kurasu ] - class
 グラム [ guramu ] - gram
 くる [ kuru ] - to come
-くるま [ kuruma ] - car,vehicle
+くるま [ kuruma ] - car, vehicle
 くろ [ kuro ] - black
 くろい [ kuroi ] - black
 けいかん [ keikan ] - policeman
 けさ [ kesa ] - this morning
-けす [ kesu ] - to erase,to delete,to turn off power
-けっこう [ kekkou ] - nice,enough
+けす [ kesu ] - to erase, to delete, to turn off power
+けっこう [ kekkou ] - nice, enough
 けっこん（する） [ kekkon(suru) ] - marriage
 げつようび [ getsuyoubi ] - Monday
-げんかん [ genkan ] - entrance-way,entry hall
+げんかん [ genkan ] - entrance-way, entry hall
 げんき [ genki ] - health
 ～こ [ ～ko ] - counter for small items
 ご [ go ] - five
-～ご [ ～go ] - word,language
+～ご [ ～go ] - word, language
 こうえん [ kouen ] - (public) park
 こうさてん [ kousaten ] - intersection
 こうちゃ [ koucha ] - black tea
@@ -250,36 +250,36 @@
 こえ [ koe ] - voice
 コート [ kooto ] - coat
 コーヒー [ koohii ] - coffee
-ここ [ koko ] - here,this place
-ごご [ gogo ] - afternoon,P.M.
-ここのか [ kokonoka ] - nine days,the ninth day (of the month)
+ここ [ koko ] - here, this place
+ごご [ gogo ] - afternoon, P.M.
+ここのか [ kokonoka ] - nine days, the ninth day (of the month)
 ここのつ [ kokonotsu ] - nine
-ごぜん [ gozen ] - morning,A.M.
-こたえる [ kotaeru ] - to answer,to reply
+ごぜん [ gozen ] - morning, A.M.
+こたえる [ kotaeru ] - to answer, to reply
 こちら [ kochira ] - this eg person, way
 こっち [ kotchi ] - this eg person, way
 コップ [ koppu ] - cup
 ことし [ kotoshi ] - this year
 ことば [ kotoba ] - word
-こども [ kodomo ] - child,children
+こども [ kodomo ] - child, children
 この [ kono ] - this
-ごはん [ gohan ] - rice (cooked),meal
+ごはん [ gohan ] - rice (cooked), meal
 コピー・する [ kopii/suru ] - to copy
-こまる [ komaru ] - to be worried,to be bothered
+こまる [ komaru ] - to be worried, to be bothered
 これ [ kore ] -  this
-～ころ/～ごろ [ ～koro/～goro ] - about,approximately (time)
+～ころ/～ごろ [ ～koro/～goro ] - about, approximately (time)
 こんげつ [ kongetsu ] - this month
 こんしゅう [ konshuu ] - this week
-こんな [ konna ] - such,like this
-こんばん [ konban ] - tonight,this evening
+こんな [ konna ] - such, like this
+こんばん [ konban ] - tonight, this evening
 さあ [ saa ] - come now, well
 ～さい [ ～sai ] - ～years-old
 さいふ [ saifu ] - wallet
 さかな [ sakana ] - fish
-さき [ saki ] - the future,former,previous
+さき [ saki ] - the future, former, previous
 さく [ saku ] - to bloom
-さくぶん [ sakubun ] - composition,writing
-さす [ sasu ] - to raise (stretch out) hands,to raise (eg umbrella)
+さくぶん [ sakubun ] - composition, writing
+さす [ sasu ] - to raise (stretch out) hands, to raise (eg umbrella)
 ～さつ [ ～satsu ] - counter for books
 ざっし [ zasshi ] - magazine
 さとう [ satou ] - sugar
@@ -287,188 +287,188 @@
 さらいねん [ sarainen ] - year after next
 ～さん [ ～san ] - Mr or Mrs
 さん [ san ] - three
-さんぽ（する） [ sanpo(suru) ] - walk,stroll
+さんぽ（する） [ sanpo(suru) ] - walk, stroll
 し [ shi ] - four
 ～じ [ ～ji ] - time (～ O'clock)
 しお [ shio ] - salt
-しかし [ shikashi ] -  however,but
+しかし [ shikashi ] -  however, but
 じかん [ jikan ] - time
 ～じかん [ ～jikan ] - ～hours
-しごと [ shigoto ] - work,occupation,employment
+しごと [ shigoto ] - work, occupation, employment
 じしょ [ jisho ] - dictionary
-しずか [ shizuka ] - quiet,peaceful
-した [ shita ] - under,below,beneath
+しずか [ shizuka ] - quiet, peaceful
+した [ shita ] - under, below, beneath
 しち [ shichi ] - seven
-しつもん [ shitsumon ] - question,inquiry
+しつもん [ shitsumon ] - question, inquiry
 じてんしゃ [ jitensha ] - bicycle
 じどうしゃ [ jidousha ] - automobile
 しぬ [ shinu ] - to die
 じびき [ jibiki ] - dictionary
-じぶん [ jibun ] - myself,oneself
-しまる [ shimaru ] - to close,to be closed
-しめる [ shimeru ] - to close,to shut
-しめる [ shimeru ] - to tie,to fasten
-じゃ/じゃあ [ ja/jaa ] - well,well then
+じぶん [ jibun ] - myself, oneself
+しまる [ shimaru ] - to close, to be closed
+しめる [ shimeru ] - to close, to shut
+しめる [ shimeru ] - to tie, to fasten
+じゃ/じゃあ [ ja/jaa ] - well, well then
 しゃしん [ shashin ] - photograph
-シャツ [ shatsu ] - shirt,singlet
+シャツ [ shatsu ] - shirt, singlet
 シャワー [ shawaa ] - shower
 じゅう [ juu ] - ten
-～じゅう [ ～juu ] - during,while
+～じゅう [ ～juu ] - during, while
 ～しゅうかん [ ～shuukan ] - ～weeks
-じゅぎょう [ jugyou ] - lesson,class work
+じゅぎょう [ jugyou ] - lesson, class work
 しゅくだい [ shukudai ] - homework
-じょうず [ jouzu ] - skill,skillful,dexterity
-じょうぶ [ joubu ] - strong,solid,durable
+じょうず [ jouzu ] - skill, skillful, dexterity
+じょうぶ [ joubu ] - strong, solid, durable
 しょうゆ [ shouyu ] - soy sauce
-しょくどう [ shokudou ] - cafeteria,dining hall
-しる [ shiru ] - to know,to understand
+しょくどう [ shokudou ] - cafeteria, dining hall
+しる [ shiru ] - to know, to understand
 しろ [ shiro ] - white
 しろい [ shiroi ] - white
 ～にん [ ～nin ] - counter for people
 しんぶん [ shinbun ] - newspaper
 すいようび [ suiyoubi ] - Wednesday
-すう [ suu ] - to smoke,to breathe in,to suck
+すう [ suu ] - to smoke, to breathe in, to suck
 スカート [ sukaato ] - skirt
-すき [ suki ] - liking,fondness,love
-～すぎ [ ～sugi ] - to exceed,～ too much
-すくない [ sukunai ] - a few,scarce
-すぐ・に [ sugu/ni ] - immediately,instantly
-すこし [ sukoshi ] - little,few
-すずしい [ suzushii ] - cool,refreshing
-～ずつ [ ～zutsu ] - at a time,gradually
+すき [ suki ] - liking, fondness, love
+～すぎ [ ～sugi ] - to exceed, ～ too much
+すくない [ sukunai ] - a few, scarce
+すぐ・に [ sugu/ni ] - immediately, instantly
+すこし [ sukoshi ] - little, few
+すずしい [ suzushii ] - cool, refreshing
+～ずつ [ ～zutsu ] - at a time, gradually
 ストーブ [ sutoobu ] - heater (lit: stove)
 スプーン [ supuun ] - spoon
 スポーツ [ supootsu ] - sport
 ズボン [ zubon ] - trousers (fr: jupon)
-すむ [ sumu ] - to reside,to live in
+すむ [ sumu ] - to reside, to live in
 スリッパ [ surippa ] - slippers
-する [ suru ] - to do,to try
+する [ suru ] - to do, to try
 すわる [ suwaru ] - to sit
-せい [ sei ] - height,stature
+せい [ sei ] - height, stature
 せいと [ seito ] - pupil
-セーター [ seetaa ] - sweater,jumper
+セーター [ seetaa ] - sweater, jumper
 せっけん [ sekken ] - soap
 せびろ [ sebiro ] - business suit
-せまい [ semai ] - narrow,confined,small
+せまい [ semai ] - narrow, confined, small
 ゼロ [ zero ] - zero
-せん [ sen ] - thousand,many
+せん [ sen ] - thousand, many
 せんげつ [ sengetsu ] - last month
-せんしゅう [ senshuu ] - last week,the week before
-せんせい [ sensei ] - teacher,master,doctor
-せんたく [ sentaku ] - washing,laundry
-ぜんぶ [ zenbu ] - all,entire,whole
-そう/そうです [ sou/soudesu ] - appears,to be the case
-そうじ（する） [ souji(suru) ] - cleaning,sweeping
-そうして/そして [ soushite/soshite ] - and,like that
-そこ [ soko ] - that place,there
+せんしゅう [ senshuu ] - last week, the week before
+せんせい [ sensei ] - teacher, master, doctor
+せんたく [ sentaku ] - washing, laundry
+ぜんぶ [ zenbu ] - all, entire, whole
+そう/そうです [ sou/soudesu ] - appears, to be the case
+そうじ（する） [ souji(suru) ] - cleaning, sweeping
+そうして/そして [ soushite/soshite ] - and, like that
+そこ [ soko ] - that place, there
 そちら [ sochira ] - over there
 そっち [ sotchi ] - over there
 そと [ soto ] - outside, exterior
 その [ sono ] - that
-そば [ soba ] - near,close,beside
+そば [ soba ] - near, close, beside
 そら [ sora ] - sky
-それ [ sore ] - it,that
-それから [ sorekara ] - and then,after that
-それでは [ soredeha ] - in that situation,well then...
+それ [ sore ] - it, that
+それから [ sorekara ] - and then, after that
+それでは [ soredeha ] - in that situation, well then...
 ～だい [ ～dai ] - counter for vehicles/machines
 だいがく [ daigaku ] - university
 たいしかん [ taishikan ] - embassy
-だいじょうぶ [ daijoubu ] - safe,all right,O.K.
-だいすき [ daisuki ] - very likeable,like very much
+だいじょうぶ [ daijoubu ] - safe, all right, O.K.
+だいすき [ daisuki ] - very likeable, like very much
 たいせつ [ taisetsu ] - important
 だいどころ [ daidokoro ] - kitchen
 たいへん [ taihen ] - very
-たいへん [ taihen ] - difficult situation,tough situation
-たかい [ takai ] - tall,high
+たいへん [ taihen ] - difficult situation, tough situation
+たかい [ takai ] - tall, high
 たかい [ takai ] - expensive
-～だけ [ ～dake ] - only ～,just ～
-たくさん [ takusan ] - many,a lot,much
+～だけ [ ～dake ] - only ～, just ～
+たくさん [ takusan ] - many, a lot, much
 タクシー [ takushii ] - taxi
-だす [ dasu ] - to put out,to send
+だす [ dasu ] - to put out, to send
 ～たち [ ～tachi ] - plural suffix
 たつ [ tatsu ] - to stand
-たて [ tate ] - length,height
+たて [ tate ] - length, height
 たてもの [ tatemono ] - building
-たのしい [ tanoshii ] - enjoyable,fun
-たのむ [ tanomu ] - to request,to ask
-たばこ [ tabako ] - tobacco,cigarettes
-たぶん [ tabun ] - perhaps,probably
+たのしい [ tanoshii ] - enjoyable, fun
+たのむ [ tanomu ] - to request, to ask
+たばこ [ tabako ] - tobacco, cigarettes
+たぶん [ tabun ] - perhaps, probably
 たべもの [ tabemono ] - food
 たべる [ taberu ] - to eat
 たまご [ tamago ] - egg(s)
 だれ [ dare ] - who
-だれか [ dareka ] - someone,somebody
+だれか [ dareka ] - someone, somebody
 たんじょうび [ tanjoubi ] - birthday
-だんだん [ dandan ] - gradually,by degrees
-ちいさい [ chiisai ] - small,little
-ちいさな [ chiisana ] - small,little
-ちかい [ chikai ] - near,close by,short
+だんだん [ dandan ] - gradually, by degrees
+ちいさい [ chiisai ] - small, little
+ちいさな [ chiisana ] - small, little
+ちかい [ chikai ] - near, close by, short
 ちがう [ chigau ] - to differ (from)
 ちかく [ chikaku ] - near
-ちかてつ [ chikatetsu ] - underground train,subway
+ちかてつ [ chikatetsu ] - underground train, subway
 ちず [ chizu ] - map
 ちち [ chichi ] - (one's own) father
 ちゃいろ [ chairo ] - brown
 ちゃわん [ chawan ] - rice bowl
-～ちゅう [ ～chuu ] - during,while ～ing
-ちょうど [ choudo ] - just,right,exactly
-ちょっと [ chotto ] - a little,somewhat
-ついたち [ tsuitachi ] - for one day,first of month
+～ちゅう [ ～chuu ] - during, while ～ing
+ちょうど [ choudo ] - just, right, exactly
+ちょっと [ chotto ] - a little, somewhat
+ついたち [ tsuitachi ] - for one day, first of month
 つかう [ tsukau ] - to use
-つかれる [ tsukareru ] - to get tired,to tire
+つかれる [ tsukareru ] - to get tired, to tire
 つぎ [ tsugi ] - next
-つく [ tsuku ] - to arrive at,to reach
+つく [ tsuku ] - to arrive at, to reach
 つくえ [ tsukue ] - desk
-つくる [ tsukuru ] - to make,to create
+つくる [ tsukuru ] - to make, to create
 つける [ tsukeru ] - to turn on (eg a light)
-つとめる [ tsutomeru ] - to serve,to work (for)
-つまらない [ tsumaranai ] - insignificant,boring
+つとめる [ tsutomeru ] - to serve, to work (for)
+つまらない [ tsumaranai ] - insignificant, boring
 つめたい [ tsumetai ] - cold (to the touch)
-つよい [ tsuyoi ] - strong,powerful
+つよい [ tsuyoi ] - strong, powerful
 て [ te ] - hand
 テープ [ teepu ] - tape
 テープレコーダー [ teepurekoodaa ] - tape recorder
 テーブル [ teeburu ] - table
-でかける [ dekakeru ] - to depart,to go out
+でかける [ dekakeru ] - to depart, to go out
 てがみ [ tegami ] - letter
 できる [ dekiru ] - to be able to
 でぐち [ deguchi ] - exit
 テスト [ tesuto ] - test
 では [ deha ] - with that...
 デパート [ depaato ] - department store
-でも [ demo ] - but,however
-でる [ deru ] - to appear,to leave
-テレビ [ terebi ] - television,TV
+でも [ demo ] - but, however
+でる [ deru ] - to appear, to leave
+テレビ [ terebi ] - television, TV
 てんき [ tenki ] - weather
-でんき [ denki ] - electricity,(electric) light
+でんき [ denki ] - electricity, (electric) light
 でんしゃ [ densha ] - electric train
 でんわ [ denwa ] - telephone
 と [ to ] - door (Japanese style)
 ～ど [ ～do ] - counter for occurrences
 ドア [ doa ] - door (Western style)
 トイレ [ toire ] - toilet
-どう [ dou ] - how,in what way
-どうして [ doushite ] - why?,for what reason
-どうぞ [ douzo ] - please,kindly,by all means
+どう [ dou ] - how, in what way
+どうして [ doushite ] - why?, for what reason
+どうぞ [ douzo ] - please, kindly, by all means
 どうぶつ [ doubutsu ] - animal
-どうも [ doumo ] - thanks,very
+どうも [ doumo ] - thanks, very
 とお [ too ] - ten
-とおい [ tooi ] - far,distant
-とおか [ tooka ] - ten days,the tenth (day of the month)
+とおい [ tooi ] - far, distant
+とおか [ tooka ] - ten days, the tenth (day of the month)
 ～とき [ ～toki ] - at the time of ～
 ときどき [ tokidoki ] - sometimes
-とけい [ tokei ] - watch,clock
-どこ [ doko ] - where,what place
+とけい [ tokei ] - watch, clock
+どこ [ doko ] - where, what place
 ところ [ tokoro ] - place
-とし [ toshi ] - year,age
+とし [ toshi ] - year, age
 としょかん [ toshokan ] - library
-どちら [ dochira ] - which,which way
-どっち [ dotchi ] - which one,which way
+どちら [ dochira ] - which, which way
+どっち [ dotchi ] - which one, which way
 とても [ totemo ] - very
 どなた [ donata ] - who
-となり [ tonari ] - next to,next door to
+となり [ tonari ] - next to, next door to
 どの [ dono ] - which
-とぶ [ tobu ] - to fly,to hop
+とぶ [ tobu ] - to fly, to hop
 とまる [ tomaru ] - to come to a halt
 ともだち [ tomodachi ] - friend
 どようび [ doyoubi ] - Saturday
@@ -477,32 +477,32 @@
 とる [ toru ] - to take
 とる [ toru ] - to take (a photo)
 どれ [ dore ] - which (of three or more)
-どんな [ donna ] - what,what kind of
-ない [ nai ] - there isn't,doesn't have
+どんな [ donna ] - what, what kind of
+ない [ nai ] - there isn't, doesn't have
 ナイフ [ naifu ] - knife
-なか [ naka ] - inside,middle,among
+なか [ naka ] - inside, middle, among
 ながい [ nagai ] - long
-～ながら [ ～nagara ] - while ~ing,during,although
-なく [ naku ] - to sing (bird),to make sound (animal)
+～ながら [ ～nagara ] - while ~ing, during, although
+なく [ naku ] - to sing (bird), to make sound (animal)
 なくす [ nakusu ] - to lose something
 なぜ [ naze ] - why
 なつ [ natsu ] - summer
-なつやすみ [ natsuyasumi ] - summer vacation,summer holiday
+なつやすみ [ natsuyasumi ] - summer vacation, summer holiday
 ～など [ ～nado ] - et cetera
 ななつ [ nanatsu ] - seven
 なん/なに [ nan/nani ] - what
-なのか [ nanoka ] - seven days,the seventh day (of the month)
+なのか [ nanoka ] - seven days, the seventh day (of the month)
 なまえ [ namae ] - name
 ならう [ narau ] - to learn
-ならぶ [ narabu ] - to line up,to stand in a line
-ならべる [ naraberu ] - to line up,to set up
+ならぶ [ narabu ] - to line up, to stand in a line
+ならべる [ naraberu ] - to line up, to set up
 なる [ naru ] - to become
 なん～ [ nan～ ] - what sort of ～
 に [ ni ] - two
-にぎやか [ nigiyaka ] - bustling,busy
+にぎやか [ nigiyaka ] - bustling, busy
 にく [ niku ] - meat
 にし [ nishi ] - west
-～にち [ ～nichi ] - ～ day of the month,for ～ days
+～にち [ ～nichi ] - ～ day of the month, for ～ days
 にちようび [ nichiyoubi ] - Sunday
 にもつ [ nimotsu ] - luggage
 ニュース [ nyuusu ] - news
@@ -510,45 +510,45 @@
 ～にん [ ～nin ] - counter for people
 ぬぐ [ nugu ] - to take off clothes
 ぬるい [ nurui ] - lukewarm
-ネクタイ [ nekutai ] - tie,necktie
+ネクタイ [ nekutai ] - tie, necktie
 ねこ [ neko ] - cat
-ねる [ neru ] - to go to bed,to sleep
+ねる [ neru ] - to go to bed, to sleep
 ～ねん [ ～nen ] - ～ years
-ノート [ nooto ] - notebook,exercise book
+ノート [ nooto ] - notebook, exercise book
 のぼる [ noboru ] - to climb
-のみもの [ nomimono ] - drink,beverage
+のみもの [ nomimono ] - drink, beverage
 のむ [ nomu ] - to drink
-のる [ noru ] - to get on,to ride in,to board
+のる [ noru ] - to get on, to ride in, to board
 は [ ha ] - tooth
 パーティー [ paateii ] - party
 はい [ hai ] - yes
 ～はい [ ～hai ] - counter for cupfuls
 はいざら [ haizara ] - ashtray
-はいる [ hairu ] - to enter,to contain,to hold
+はいる [ hairu ] - to enter, to contain, to hold
 はがき [ hagaki ] - postcard
-はく [ haku ] - to wear,to put on (trousers)
+はく [ haku ] - to wear, to put on (trousers)
 はこ [ hako ] - box
 はし [ hashi ] - bridge
 はし [ hashi ] - chopsticks
 はじまる [ hajimaru ] - to begin
-はじめ [ hajime ] - beginning,start
+はじめ [ hajime ] - beginning, start
 はじめて [ hajimete ] - for the first time
 はしる [ hashiru ] - to run
 バス [ basu ] - bus
 バター [ bataa ] - butter
-はたち [ hatachi ] - 20 years old,20th year
+はたち [ hatachi ] - 20 years old, 20th year
 はたらく [ hataraku ] - to work
 はち [ hachi ] - eight
-はつか [ hatsuka ] - twenty days,twentieth (day of the month)
+はつか [ hatsuka ] - twenty days, twentieth (day of the month)
 はな [ hana ] - flower
 はな [ hana ] - nose
-はなし [ hanashi ] - talk,story
+はなし [ hanashi ] - talk, story
 はなす [ hanasu ] - to speak
 はは [ haha ] - (one's own) mother
 はやい [ hayai ] - early
-はやい [ hayai ] - quick,fast
+はやい [ hayai ] - quick, fast
 はる [ haru ] - spring
-はる [ haru ] - to stick,to paste
+はる [ haru ] - to stick, to paste
 はれ [ hare ] - clear weather
 はれる [ hareru ] - to be sunny
 はん [ han ] - half
@@ -557,27 +557,27 @@
 パン [ pan ] - bread
 ハンカチ [ hankachi ] - handkerchief
 ばんごう [ bangou ] - number
-ばんごはん [ bangohan ] - dinner,evening meal
+ばんごはん [ bangohan ] - dinner, evening meal
 はんぶん [ hanbun ] - half
 ひがし [ higashi ] - east
 ～ひき [ ～hiki ] - counter for small animals
 ひく [ hiku ] - to pull
 ひく [ hiku ] - to play (piano, guitar)
-ひくい [ hikui ] - short,low
-ひこうき [ hikouki ] - aeroplane,airplane
+ひくい [ hikui ] - short, low
+ひこうき [ hikouki ] - aeroplane, airplane
 ひだり [ hidari ] - left hand side
-ひと [ hito ] - man,person
+ひと [ hito ] - man, person
 ひとつ [ hitotsu ] - one
 ひとつき [ hitotsuki ] - one month
 ひとり [ hitori ] - one person
-ひま [ hima ] - free time,leisure
-ひゃく [ hyaku ] - 100,hundred
+ひま [ hima ] - free time, leisure
+ひゃく [ hyaku ] - 100, hundred
 びょういん [ byouin ] - hospital
-びょうき [ byouki ] - illness,disease,sickness
+びょうき [ byouki ] - illness, disease, sickness
 ひらがな [ hiragana ] - hiragana
-ひる [ hiru ] - noon,daytime
-ひるごはん [ hirugohan ] - lunch,midday meal
-ひろい [ hiroi ] - spacious,wide
+ひる [ hiru ] - noon, daytime
+ひるごはん [ hirugohan ] - lunch, midday meal
+ひろい [ hiroi ] - spacious, wide
 フィルム [ fyirumu ] - film (roll of)
 ふうとう [ fuutou ] - envelope
 プール [ puuru ] - swimming pool
@@ -587,97 +587,97 @@
 ふたつ [ futatsu ] - two
 ぶたにく [ butaniku ] - pork
 ふたり [ futari ] - two people
-ふつか [ futsuka ] - second day of the month,two days
-ふとい [ futoi ] - fat,thick
+ふつか [ futsuka ] - second day of the month, two days
+ふとい [ futoi ] - fat, thick
 ふゆ [ fuyu ] - winter
-ふる [ furu ] - to precipitate,to fall (e.g. rain)
-ふるい [ furui ] - old (not person),aged,ancient
+ふる [ furu ] - to precipitate, to fall (e.g. rain)
+ふるい [ furui ] - old (not person), aged, ancient
 ふろ [ furo ] - bath
 ～ふん [ ～fun ] - ～minutes
-ぶんしょう [ bunshou ] - sentence,text
+ぶんしょう [ bunshou ] - sentence, text
 ページ [ peeji ] - page
-へた [ heta ] - unskillful,poor
+へた [ heta ] - unskillful, poor
 ベッド [ beddo ] - bed
 ペット [ petto ] - pet
 へや [ heya ] - room
-へん [ hen ] - area,vicinity
+へん [ hen ] - area, vicinity
 ペン [ pen ] - pen
-べんきょう（する） [ benkyou(suru) ] - study,diligence
-べんり [ benri ] - convenient,handy
+べんきょう（する） [ benkyou(suru) ] - study, diligence
+べんり [ benri ] - convenient, handy
 ほう [ hou ] - way
 ぼうし [ boushi ] - hat
 ボールペン [ boorupen ] - ball-point pen
-ほか [ hoka ] - other place,the rest
+ほか [ hoka ] - other place, the rest
 ポケット [ poketto ] - pocket
-ほしい [ hoshii ] - want,in need of,desire
+ほしい [ hoshii ] - want, in need of, desire
 ポスト [ posuto ] - post
-ほそい [ hosoi ] - thin,slender,fine
+ほそい [ hosoi ] - thin, slender, fine
 ボタン [ botan ] - button
 ホテル [ hoteru ] - hotel
 ほん [ hon ] - book
 ～ほん [ ～hon ] - counter for long cylindrical things
 ほんだな [ hondana ] - bookshelves
-ほんとう [ hontou ] - reality,truth
+ほんとう [ hontou ] - reality, truth
 ～まい [ ～mai ] - counter for flat things
 まいあさ [ maiasa ] - every morning
-まいげつ/まいつき [ maigetsu/maitsuki ] - every month,monthly
+まいげつ/まいつき [ maigetsu/maitsuki ] - every month, monthly
 まいしゅう [ maishuu ] - every week
 まいにち [ mainichi ] - every day
-まいねん/まいとし [ mainen/maitoshi ] - every year,annually
+まいねん/まいとし [ mainen/maitoshi ] - every year, annually
 まいばん [ maiban ] - every night
-まえ [ mae ] - before,in front
+まえ [ mae ] - before, in front
 ～まえ [ ～mae ] - in front of ～
-まがる [ magaru ] - to turn,to bend
-まずい [ mazui ] - unappetising,unpleasant (taste)
-また [ mata ] - again,and
-まだ [ mada ] - yet,still,besides
-まち [ machi ] - town,city
+まがる [ magaru ] - to turn, to bend
+まずい [ mazui ] - unappetising, unpleasant (taste)
+また [ mata ] - again, and
+まだ [ mada ] - yet, still, besides
+まち [ machi ] - town, city
 まつ [ matsu ] - to wait
-まっすぐ [ massugu ] - straight (ahead),direct
+まっすぐ [ massugu ] - straight (ahead), direct
 マッチ [ matchi ] - match
 まど [ mado ] - window
-まるい [ marui ] - round,circular
-まん [ man ] - ten thousand,everything
+まるい [ marui ] - round, circular
+まん [ man ] - ten thousand, everything
 まんねんひつ [ mannenhitsu ] - fountain pen
 みがく [ migaku ] - to brush (teeth)
 みぎ [ migi ] - right hand side
 みじかい [ mijikai ] - short
 みず [ mizu ] - water
-みせ [ mise ] - store,shop,establishment
-みせる [ miseru ] - to show,to display
-みち [ michi ] - road,street
-みっか [ mikka ] - three days,the third day (of the month)
+みせ [ mise ] - store, shop, establishment
+みせる [ miseru ] - to show, to display
+みち [ michi ] - road, street
+みっか [ mikka ] - three days, the third day (of the month)
 みっつ [ mittsu ] - three
 みどり [ midori ] - green
 みなさん [ minasan ] - everyone
-みなみ [ minami ] - South,proceeding south
+みなみ [ minami ] - South, proceeding south
 みみ [ mimi ] - ear
-みる [ miru ] - to see,to watch
-みんな [ minna ] - all,everyone,everybody
-むいか [ muika ] - six days,sixth (day of month)
-むこう [ mukou ] - beyond,over there
+みる [ miru ] - to see, to watch
+みんな [ minna ] - all, everyone, everybody
+むいか [ muika ] - six days, sixth (day of month)
+むこう [ mukou ] - beyond, over there
 むずかしい [ muzukashii ] - difficult
 むっつ [ muttsu ] - six
 むら [ mura ] - village
-め [ me ] - eye,eyeball
-メートル [ meetoru ] - metre,meter
-めがね [ megane ] - spectacles,glasses
+め [ me ] - eye, eyeball
+メートル [ meetoru ] - metre, meter
+めがね [ megane ] - spectacles, glasses
 もう [ mou ] - already
 もう [ mou ] - again
 もくようび [ mokuyoubi ] - Thursday
 もしもし [ moshimoshi ] - hello (on phone)
-もつ [ motsu ] - (1) to hold,to carry,(2) to possess
-もっと [ motto ] - more,longer,farther
-もの [ mono ] - thing,object
+もつ [ motsu ] - (1) to hold, to carry, (2) to possess
+もっと [ motto ] - more, longer, farther
+もの [ mono ] - thing, object
 もん [ mon ] - gate
-もんだい [ mondai ] - problem,question
+もんだい [ mondai ] - problem, question
 ～や [ ～ya ] - ～ shop
 やおや [ yaoya ] - greengrocer
 やさい [ yasai ] - vegetable
-やさしい [ yasashii ] - easy,plain,simple
-やすい [ yasui ] - cheap,inexpensive
-やすみ [ yasumi ] - rest,vacation,holiday
-やすむ [ yasumu ] - to rest,to have a break,to take a day off
+やさしい [ yasashii ] - easy, plain, simple
+やすい [ yasui ] - cheap, inexpensive
+やすみ [ yasumi ] - rest, vacation, holiday
+やすむ [ yasumu ] - to rest, to have a break, to take a day off
 やっつ [ yattsu ] - eight
 やま [ yama ] - mountain
 やる [ yaru ] - to do
@@ -687,41 +687,41 @@
 ゆうべ [ yuube ] - last night
 ゆうめい [ yuumei ] - famous
 ゆき [ yuki ] - snow
-ゆっくり・と [ yukkuri/to ] - slowly,at ease
-ようか [ youka ] - eight days,the eighth (day of the month)
+ゆっくり・と [ yukkuri/to ] - slowly, at ease
+ようか [ youka ] - eight days, the eighth (day of the month)
 ようふく [ youfuku ] - Western-style clothes
-よく [ yoku ] - frequently,often
-よく [ yoku ] - well,skillfully
-よこ [ yoko ] - beside,side,width
-よっか [ yokka ] - (1) 4th day of month,(2) four days
+よく [ yoku ] - frequently, often
+よく [ yoku ] - well, skillfully
+よこ [ yoko ] - beside, side, width
+よっか [ yokka ] - (1) 4th day of month, (2) four days
 よっつ [ yottsu ] - four
-よぶ [ yobu ] - to call out,to invite
+よぶ [ yobu ] - to call out, to invite
 よむ [ yomu ] - to read
-よる [ yoru ] - evening,night
-よわい [ yowai ] - weak,feable
+よる [ yoru ] - evening, night
+よわい [ yowai ] - weak, feable
 らいげつ [ raigetsu ] - next month
 らいしゅう [ raishuu ] - next week
 らいねん [ rainen ] - next year
 ラジオ [ rajio ] - radio
 ラジカセ [ rajikase ] - radio cassette player
-りっぱ [ rippa ] - splendid,fine
+りっぱ [ rippa ] - splendid, fine
 りゅうがくせい [ ryuugakusei ] - overseas student
-りょうしん [ ryoushin ] - parents,both parents
-りょうり [ ryouri ] - cooking,cuisine
-りょこう [ ryokou ] - travel,trip
-れい [ rei ] - zero,nought
+りょうしん [ ryoushin ] - parents, both parents
+りょうり [ ryouri ] - cooking, cuisine
+りょこう [ ryokou ] - travel, trip
+れい [ rei ] - zero, nought
 れいぞうこ [ reizouko ] - refrigerator
 レコード [ rekoodo ] - record
 レストラン [ resutoran ] - restaurant
 れんしゅう（する） [ renshuu(suru) ] - (to) practice
 ろうか [ rouka ] - corridor
 ろく [ roku ] - six
-ワイシャツ [ waishatsu ] - shirt (lit: white shirt),business shirt
+ワイシャツ [ waishatsu ] - shirt (lit: white shirt), business shirt
 わかい [ wakai ] - young
 わかる [ wakaru ] - to understand
 わすれる [ wasureru ] - to forget
-わたし [ watashi ] - I,myself
-わたくし [ watakushi ] - I,myself
-わたす [ watasu ] - to pass over,to hand over
-わたる [ wataru ] - to cross over,to go across
-わるい [ warui ] - bad,inferior
+わたし [ watashi ] - I, myself
+わたくし [ watakushi ] - I, myself
+わたす [ watasu ] - to pass over, to hand over
+わたる [ wataru ] - to cross over, to go across
+わるい [ warui ] - bad, inferior
