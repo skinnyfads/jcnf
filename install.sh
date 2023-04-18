@@ -17,7 +17,7 @@ if [ -d "$japanize_path" ]; then
   rm -rf "$japanize_path"
 fi
 japanize_log "clone skinnyfads/jcnf from github repository"
-git clone https://github.com/skinnyfads/jcnf.git
+git clone https://github.com/skinnyfads/jcnf.git --depth 1
 
 japanize_log "move the repository into the home directory"
 mv jcnf ~
