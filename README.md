@@ -19,9 +19,9 @@ I just want every time I mistyped a command in the terminal, I could learn some 
 
 Before using this project, make sure you have the following software installed:
 
-- **zsh**: https://www.zsh.org/
 - **git**: https://git-scm.com/downloads
 - **curl**: https://curl.haxx.se/
+- **shell**: Either [zsh](https://www.zsh.org/) or [fish](https://fishshell.com/)
 
 ## Installation
 
