@@ -21,7 +21,7 @@ Before using this project, make sure you have the following software installed:
 
 - **git**: https://git-scm.com/downloads
 - **curl**: https://curl.haxx.se/
-- **shell**: Either [zsh](https://www.zsh.org/) or [fish](https://fishshell.com/)
+- **shell**: Either [zsh](https://www.zsh.org/), [bash](https://www.gnu.org/software/bash/) or [fish](https://fishshell.com/)
 
 ## Installation
 

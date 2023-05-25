@@ -22,6 +22,16 @@ git clone https://github.com/skinnyfads/jcnf.git --depth 1
 japanize_log "move the repository into the home directory"
 mv jcnf ~
 
+japanize_bash_fn="function command_not_found_handle() {
+  sh ~/jcnf/main.sh \$1
+  return 127
+}"
+if ! grep -Fx -f <(echo "$japanize_bash_fn") ~/.bashrc; then
+  japanize_log "setting up .bashrc"
+  echo "# https://github.com/skinnyfads/jcnf" >> ~/.bashrc
+  echo "$japanize_bash_fn" >> ~/.bashrc
+fi
+
 japanize_zsh_fn="function command_not_found_handler() {
   zsh ~/jcnf/main.sh \$1
   return 127
@@ -42,6 +52,7 @@ if ! grep -Fx -f <(echo "$japanize_fish_fn") ~/.config/fish/config.fish; then
 fi
 
 japanize_log "japanize installed successfully, please reopen your terminal or type this command:"
+japanize_code "source ~/.bashrc"
 japanize_code "source ~/.zshrc"
 japanize_code "source ~/.config/fish/config.fish"
 japanize_log "to apply the changes"
